@@ -6,4 +6,4 @@ def vista_inicio(request):
 
 
 def vista_acerca_de(request):
-    return HttpResponse("Acerca de: esta es mi primera aplicación en Django.")
+    return HttpResponse("Acerca de mí")
